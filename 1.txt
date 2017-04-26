@@ -1,16 +1,8 @@
-===
-Dit is regel 1JOEPIE van bestand 1.txt
+Dit is regel 1 van bestand 1.txt
 dit is regel 2
-===
 
+adsadasdasd
+asdasdasdasd
 
-adsadasdasd+asasdasd
-asdasdasdasd+asadsasdadadsads
->
-    bij test branch
-    toegevoegd
->
->
-    sdfsdf
-    sdfsdf
->
+bij test branch
+toegevoegd
