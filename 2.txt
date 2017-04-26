@@ -1,2 +1,5 @@
 Dit is regel 1 van bestand 2.txt en testbranch
 toegevoegd
+=======
+Dit is regel 1 van bestand 2.txt
+master aangepast

@@ -6,3 +6,7 @@ sdf
 sdfsd
 f
 toegevoegd
+=======
+master aangepast
+master nog eens aangepast
+>>>>>>> master
