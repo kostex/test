@@ -1,8 +1,12 @@
+===
 Dit is regel 1JOEPIE van bestand 1.txt
 dit is regel 2
+===
 
-adsadasdasd
-asdasdasdasd
 
-bij test branch
-toegevoegd
+adsadasdasd+asasdasd
+asdasdasdasd+asadsasdadadsads
+>
+    bij test branch
+    toegevoegd
+>
