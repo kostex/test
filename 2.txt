@@ -3,3 +3,5 @@ toegevoegd
 =======
 Dit is regel 1 van bestand 2.txt
 master aangepast
+========
+2 aangepast in master
