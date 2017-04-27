@@ -1,4 +1,0 @@
-Cleaned up 1.txt
-Aangepast in Master
-Aangepast voor een tweede keer in Again branch
-Aangepast voor een tweede keer in Again branch
