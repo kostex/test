@@ -10,3 +10,4 @@ master aangepast
 
 
 toegevoegd via github
+lokaal aangepast
