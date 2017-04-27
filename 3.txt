@@ -1,12 +1,1 @@
-sfsdfs
-fsdfsdf
-sdf
-sfsdfsdfsdfSd
-sdf
-sdfsd
-f
-toegevoegd
-=======
-master aangepast
-master nog eens aangepast
->>>>>>> master
+Cleaned up 3.txt
