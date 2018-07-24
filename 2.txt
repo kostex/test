@@ -1,3 +1,4 @@
 Cleaned up 2.txt
-Aangepast in Master
+op remote aangepast >>Aangepast in Master
 2 in master aangepast
+nieuwe regel hier
