@@ -1,5 +1,6 @@
 Cleaned up 2.txt
-Aangepast in Master << dit ook
+op remote aangepast >>Aangepast in Master << dit ook
 2 in master aangepast
+nieuwe regel hier
 
 2 aangepast in localchanges
